@@ -33,12 +33,13 @@ a:focus {
     min-height: 640px;
 }
 
-.tm-section-home { background-image: url(../img/image-01.jpg); }
-.tm-section-about { background-image: url(../img/image-02.jpg); }
-.tm-section-games { background-image: url(../img/games.jpg); }
-.tm-section-services { background-image: url(../img/image-03.jpg); }
-.tm-section-testimonials { background-image: url(../img/image-04.jpg); }
-.tm-section-contact { background-image: url(../img/image-05.jpg); }
+.tm-section-home { background-image: url(../img/image-01s.jpg); }
+.tm-section-about { background-image: url(../img/image-02s.jpg); }
+.tm-section-games { background-image: url(../img/gamess.jpg); }
+.tm-section-services { background-image: url(../img/image-03s.jpg); }
+.tm-section-newalc { background-image: url(../img/image-07.jpg); }
+.tm-section-testimonials { background-image: url(../img/image-04s.jpg); }
+.tm-section-contact { background-image: url(../img/image-05s.jpg); }
 
 .navbar-toggler {
     background-color: rgba(0,0,0,0.3);
